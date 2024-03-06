@@ -101,7 +101,18 @@
 % use this to include logos on the left and/or right side of the header:
 % \logoright{\includegraphics[height=7cm]{logo1.pdf}}
 % \logoleft{\includegraphics[height=7cm]{logo2.pdf}}
-
+\newcommand{\mathsym}[1]{{}}
+\newcommand{\unicode}[1]{{}}
+\newcommand{\tr}{\operatorname{Tr}}
+\newcommand{\ad}{\operatorname{ad}}
+\newcommand{\vect}[1]{\boldsymbol{#1}}
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\C}{\mathbb{C}}
+\newcommand{\N}{\mathbb{N}}
+\newcommand{\Z}{\mathbb{Z}}
+\newcommand{\Q}{\mathbb{Q}}
+\newcommand{\I}{\mathbb{I}}
+\newcommand{\calL}{\mathcal{L}}
 % ====================
 % Body
 % ====================
@@ -127,7 +138,10 @@
 
 
 \begin{block}{Modular Forms}
-
+\begin{itemize}
+    \item The Modular Group is $\text{PSL}_2(\Z)=\text{SL}_2(\Z)/\{\pm \I\}$ which acts as $\left(\!\begin{smallmatrix}a&b\\c&d\end{smallmatrix}\!\right) z = \frac{az+b}{cz+d}$ on $z\in\C\cup\{\infty\}$.
+    \item A modular form is a holomorphic function on $H$(upper half complex plane)$\cup\{\infty\}$ transforming under the modular group as $f(z)=(cz+d)^{-2k}f(gz)\quad \forall g\in\mathrm{SL}_2(\Z)$.
+\end{itemize}
 \end{block}
 
 

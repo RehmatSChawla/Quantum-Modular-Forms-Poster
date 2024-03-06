@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023)  (format=lualatex 2024.1.24)  6 MAR 2024 20:52
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023)  (format=lualatex 2024.1.24)  6 MAR 2024 21:20
  system commands enabled.
 **poster.tex
 (./poster.tex
@@ -1239,30 +1239,30 @@ File: pgflibraryplotmarks.code.tex 2023-01-15 v3.1.10 (3.1.10)
  (./out/poster.aux)
 \openout1 = poster.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 108.
-LaTeX Font Info:    ... okay on input line 108.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 108.
-LaTeX Font Info:    ... okay on input line 108.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 108.
-LaTeX Font Info:    ... okay on input line 108.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 108.
-LaTeX Font Info:    ... okay on input line 108.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 108.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 108.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 119.
+LaTeX Font Info:    ... okay on input line 119.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 119.
+LaTeX Font Info:    ... okay on input line 119.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 119.
+LaTeX Font Info:    ... okay on input line 119.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 119.
+LaTeX Font Info:    ... okay on input line 119.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 119.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 119.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 108.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 108.
-LaTeX Font Info:    ... okay on input line 108.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 108.
-LaTeX Font Info:    ... okay on input line 108.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 108.
-LaTeX Font Info:    ... okay on input line 108.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 108.
-LaTeX Font Info:    ... okay on input line 108.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 108.
-LaTeX Font Info:    ... okay on input line 108.
+LaTeX Font Info:    ... okay on input line 119.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 119.
+LaTeX Font Info:    ... okay on input line 119.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 119.
+LaTeX Font Info:    ... okay on input line 119.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 119.
+LaTeX Font Info:    ... okay on input line 119.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 119.
+LaTeX Font Info:    ... okay on input line 119.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 119.
+LaTeX Font Info:    ... okay on input line 119.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: luatex
@@ -1312,7 +1312,7 @@ LaTeX Font Info:    ... okay on input line 108.
 \makeMPintoPDFobject=\count413
 \everyMPtoPDFconversion=\toks59
 )
-Package hyperref Info: Link coloring ON on input line 108.
+Package hyperref Info: Link coloring ON on input line 119.
  (./out/poster.out) (./out/poster.out)
 \@outlinefile=\write5
 
@@ -1333,53 +1333,53 @@ Dictionary: translator-theorem-dictionary, Language: English
 Package pgfplots notification 'compat/show suggested version=true': you might benefit from \pgfplotsset{compat=1.18} (current compat level: 1.14).
 
 (./out/poster.nav)
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 108.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 119.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 108.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 119.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 108.
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 119.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <7> on input line 108.
-LaTeX Font Info:    Calculating math sizes for size <43> on input line 108.
+(Font)              <7> on input line 119.
+LaTeX Font Info:    Calculating math sizes for size <43> on input line 119.
 
 
 LaTeX Font Warning: Font shape `OMX/cmex/m/n' in size <43> not available
-(Font)              size <24.88> substituted on input line 108.
+(Font)              size <24.88> substituted on input line 119.
 
 
 LaTeX Font Warning: Font shape `OMX/cmex/m/n' in size <30.09987> not available
-(Font)              size <24.88> substituted on input line 108.
+(Font)              size <24.88> substituted on input line 119.
 
 
 LaTeX Font Warning: Font shape `OMX/cmex/m/n' in size <21.5> not available
-(Font)              size <20.74> substituted on input line 108.
+(Font)              size <20.74> substituted on input line 119.
 
-LaTeX Font Info:    Calculating math sizes for size <29.86> on input line 108.
+LaTeX Font Info:    Calculating math sizes for size <29.86> on input line 119.
 
 LaTeX Font Warning: Font shape `OMX/cmex/m/n' in size <29.86> not available
-(Font)              size <24.88> substituted on input line 108.
+(Font)              size <24.88> substituted on input line 119.
 
 
 LaTeX Font Warning: Font shape `OMX/cmex/m/n' in size <14.93> not available
-(Font)              size <14.4> substituted on input line 108.
+(Font)              size <14.4> substituted on input line 119.
 
 <logo.png, id=13, 476.78125pt x 464.73625pt>
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package luatex.def Info: logo.png  used on input line 157.
+Package luatex.def Info: logo.png  used on input line 171.
 (luatex.def)             Requested size: 251.03413pt x 244.69386pt.
 LaTeX Font Info:    Font shape `TU/Raleway(0)/bx/n' in size <35.83> not available
-(Font)              Font shape `TU/Raleway(0)/b/n' tried instead on input line 157.
+(Font)              Font shape `TU/Raleway(0)/b/n' tried instead on input line 171.
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package luatex.def Info: logo.png  used on input line 157.
+Package luatex.def Info: logo.png  used on input line 171.
 (luatex.def)             Requested size: 251.03413pt x 244.69386pt.
 [1{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
@@ -1408,19 +1408,19 @@ Package rerunfilecheck Info: File `poster.out' has not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 44369 strings out of 476553
+ 44415 strings out of 476553
  100000,1977958 words of node,token memory allocated
- 9659 words of node memory still in use:
-   160 hlist, 30 vlist, 21 rule, 19 disc, 32 local_par, 12 math, 304 glue, 59 kern, 47 penalty, 173 glyph, 466 attribute, 124 glue_spec, 466 attribute_list, 5 write, 1 save_pos, 145 pdf_literal, 122 pdf_colorstack, 1 pdf_setmatrix, 1 pdf_save, 1 pdf_restore nodes
-   avail lists: 2:506,3:615,4:537,5:225,6:105,7:1717,8:2,9:792,10:7,11:60
- 64930 multiletter control sequences out of 65536+600000
- 105 fonts using 13698023 bytes
+ 12953 words of node memory still in use:
+   197 hlist, 32 vlist, 24 rule, 33 disc, 34 local_par, 31 math, 397 glue, 83 kern, 63 penalty, 387 glyph, 531 attribute, 124 glue_spec, 531 attribute_list, 5 write, 1 save_pos, 145 pdf_literal, 132 pdf_colorstack, 1 pdf_setmatrix, 1 pdf_save, 1 pdf_restore nodes
+   avail lists: 2:506,3:663,4:567,5:297,6:111,7:2695,8:28,9:918,10:14,11:102
+ 64976 multiletter control sequences out of 65536+600000
+ 107 fonts using 13961399 bytes
  128i,20n,116p,711b,1013s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2023/texmf-dist/fonts/opentype/impallari/raleway/Raleway-Regular.otf></usr/local/texlive/2023/texmf-dist/fonts/opentype/impallari/raleway/Raleway-Bold.otf>
-Output written on poster.pdf (1 page, 52779 bytes).
+{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}</usr/local/texlive/2023/texmf-dist/fonts/opentype/public/lm/lmroman17-regular.otf></usr/local/texlive/2023/texmf-dist/fonts/opentype/impallari/raleway/Raleway-Regular.otf></usr/local/texlive/2023/texmf-dist/fonts/opentype/impallari/raleway/Raleway-Bold.otf></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on poster.pdf (1 page, 90036 bytes).
 
-PDF statistics: 39 PDF objects out of 1000 (max. 8388607)
- 21 compressed objects within 1 object stream
+PDF statistics: 65 PDF objects out of 1000 (max. 8388607)
+ 40 compressed objects within 1 object stream
  3 named destinations out of 1000 (max. 131072)
  16 words of extra memory for PDF output out of 10000 (max. 100000000)
 
