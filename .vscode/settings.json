@@ -1,0 +1,24 @@
+{
+    "latex-workshop.latex.recipe.default": "lualatex",
+    "latex-workshop.latex.outDir": "out",
+    "latex-workshop.latex.tools": [
+        {
+            "name": "lualatex",
+            "command": "lualatex",
+            "args": [
+            "--output-directory=out",
+                "--shell-escape",
+            // "presentation.tex"
+            "poster.tex"
+            ]
+        }
+    ],
+    "latex-workshop.latex.recipes": [
+        {
+            "name": "lualatex",
+            "tools": [
+                "lualatex"
+            ]
+        }
+    ]
+}
