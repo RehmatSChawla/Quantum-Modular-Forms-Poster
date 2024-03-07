@@ -15,7 +15,7 @@
 \usepackage{ragged2e}
 \usepackage[T1]{fontenc}
 \usepackage{lmodern}
-\usepackage[size=a0,scale=1.2]{beamerposter}
+\usepackage[orientation=portrait,size=a0,scale=1.2]{beamerposter}
 \usetheme{gemini}
 \usecolortheme{gemini}
 \usepackage{graphicx}
@@ -74,8 +74,12 @@
 % (N+1)*\sepwidth + N*\colwidth = \paperwidth
 \newlength{\sepwidth}
 \newlength{\colwidth}
-\setlength{\sepwidth}{0.025\paperwidth}
-\setlength{\colwidth}{0.3\paperwidth}
+% \setlength{\sepwidth}{0.025\paperwidth}
+% \setlength{\colwidth}{0.3\paperwidth}
+
+\setlength{\sepwidth}{0.033\paperwidth}
+\setlength{\colwidth}{0.45\paperwidth}
+
 
 \newcommand{\separatorcolumn}{\begin{column}{\sepwidth}\end{column}}
 \newcommand{\squeezeup}{\vspace{-4mm}}
@@ -83,7 +87,7 @@
 % Title
 % ====================
 
-\title{\boldmath Quantum Modular Forms}
+\title{\boldmath Quantum Modular Forms in Knot Theory}
 
 \author{Kabir Bajaj\inst{1}, Rehmat Singh Chawla\inst{1}}
 \institute{\inst{1} Department of Physics, Indian Institute of Technology Bombay}
@@ -133,14 +137,15 @@
 
 
 \begin{block}{Motivation}
-
+Knot Theory formalises intuitive notions of knots and links. The central problem in Knot Theory is to characterise and differentiate knots using topological quantities which are invariant for a particular knot but can differ between knots. This review explores the connection between knot invariants and curious mathematical objects called Quantum Modular Forms.
 \end{block}
 
 
 \begin{block}{Modular Forms}
 \begin{itemize}
     \item The Modular Group is $\text{PSL}_2(\Z)=\text{SL}_2(\Z)/\{\pm \I\}$ which acts as $\left(\!\begin{smallmatrix}a&b\\c&d\end{smallmatrix}\!\right) z = \frac{az+b}{cz+d}$ on $z\in\C\cup\{\infty\}$.
-    \item A modular form is a holomorphic function on $H$(upper half complex plane)$\cup\{\infty\}$ transforming under the modular group as $f(z)=(cz+d)^{-2k}f(gz)\quad \forall g\in\mathrm{SL}_2(\Z)$.
+    \item 
+    \item A modular form is a holomorphic function on $H$(upper half complex plane)$\cup\{\infty\}$ transforming under the modular group as $f(z)=(cz+d)^{-2k}f(gz)\; \forall g\in\mathrm{SL}_2(\Z)$.
 \end{itemize}
 \end{block}
 
@@ -148,25 +153,34 @@
 \begin{block}{Quantum Modular Forms}
 \end{block}
 
-\end{column}
-\separatorcolumn
 
 
-\begin{column}{\colwidth}
-
-\begin{block}{Lie Groups}
-  
+\begin{block}{Knot Theory}
+\begin{itemize}
+    \item A knot is a closed path embedded in a 3-manifold, generally $\R^3$.
+    \item A link is a collection of knots, possibly intertwined. Knot invariants can also be generalised to link invariants.
+    \item A famous knot invariant is the Jones Polynomial, a Laurent polynomial generated via a recursive relation between knots related by the addition of a single crossing.
+    \item Witten showed that the Jones polynomial for a knot can be obtained as the expectation value of the corresponding Wilson loop operator in a Chern-Simons field theory with gauge group $SU(2)$.
+    \item The coloured Jones polynomials are generalisations obtained from the $SU(N)$ Chern-Simons theories.
+\end{itemize}
+[] Add examples of knots\\
+[] Explain Torus knots
 \end{block}
 
-
 \end{column}
-
 \separatorcolumn
+
 
 \begin{column}{\colwidth}
+\begin{block}{Hikami and Lovejoy, 2014}
+    
+\end{block}
+
 \end{column}
 
 \separatorcolumn
+
+
 \end{columns}
 \end{frame}
 
